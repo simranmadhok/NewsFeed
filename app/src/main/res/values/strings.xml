@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">WELCOME</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="API_KEY">46ece797d71a4be3a98ba46a72422b09</string>
+</resources>

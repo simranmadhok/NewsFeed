@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="GENERAL">
+        <menu>
+            <item
+                android:id="@+id/nav_ABCNews"
+                android:icon="@drawable/abcnews"
+                android:title="ABC News" />
+            <item
+                android:id="@+id/nav_BBCNews"
+                android:icon="@drawable/bbcnews"
+                android:title="BBC News" />
+            <item
+                android:id="@+id/nav_CBSNews"
+                android:icon="@drawable/cbsnews"
+                android:title="CBS News" />
+            <item
+                android:id="@+id/nav_FoxNews"
+                android:icon="@drawable/foxnews"
+                android:title="Fox News" />
+        </menu>
+    </item>
+
+    <item android:title="SPORTS">
+        <menu>
+            <item
+                android:id="@+id/nav_BBCSport"
+                android:icon="@drawable/bbcnews"
+                android:title="BBC Sport" />
+            <item
+                android:id="@+id/nav_ESPNCric"
+                android:icon="@drawable/espncric"
+                android:title="ESPN Cric" />
+            <item
+                android:id="@+id/nav_Lequipe"
+                android:icon="@drawable/lequipe"
+                android:title="L'equipe" />
+            <item
+                android:id="@+id/nav_NFLNews"
+                android:icon="@drawable/nflnews"
+                android:title="NFL News" />
+        </menu>
+    </item>
+
+    <item android:title="TECHNOLOGY">
+        <menu>
+            <item
+                android:id="@+id/nav_CryptoCoinsNews"
+                android:icon="@drawable/cryptocoinsnews"
+                android:title="Crypto Coins News" />
+            <item
+                android:id="@+id/nav_Engadget"
+                android:icon="@drawable/engadget"
+                android:title="Engadget" />
+            <item
+                android:id="@+id/nav_Recode"
+                android:icon="@drawable/recode"
+                android:title="Recode" />
+        </menu>
+    </item>
+
+</menu>
