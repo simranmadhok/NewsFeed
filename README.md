@@ -12,5 +12,5 @@ ________________________________________________________________________________
 Previews
 
 
-![splash screen](https://i.imgur.com/W6ON8bf.png) ![side navigation drawer](https://i.imgur.com/gpCUCLT.png)
+![splash screen](https://i.imgur.com/W6ON8bf.png) ![side navigation drawer](https://i.imgur.com/gpCUCLT.png)  ![news cards](https://i.imgur.com/AhMy9RW.png) 
 
